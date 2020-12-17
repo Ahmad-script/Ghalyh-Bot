@@ -6,9 +6,9 @@
 
 #>pkg install git
 
-#>git clone https://github.com/Ahmad-script/bot-wa
+#>git clone https://github.com/Ahmad-script/Ghalyh-bot
 
-#>cd bot-wa
+#>cd Ghalyh-bot
 
 #>pkg install wget
 
