@@ -1,1 +1,0 @@
-# Ghalyh-Bot
